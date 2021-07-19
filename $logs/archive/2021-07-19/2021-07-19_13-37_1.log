@@ -1,0 +1,227 @@
+2021-07-17 23:11:03.100 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1
+2021-07-17 23:11:03.100 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1
+2021-07-17 23:11:03.100 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1
+2021-07-17 23:11:03.100 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1
+2021-07-17 23:11:03.100 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1
+2021-07-17 23:11:03.102 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1
+2021-07-17 23:11:03.102 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1
+2021-07-17 23:11:03.102 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1
+2021-07-17 23:11:03.102 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1
+2021-07-17 23:11:03.103 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1
+2021-07-17 23:13:00.712 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1for customer 3
+2021-07-17 23:13:00.712 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1for customer 4
+2021-07-17 23:13:00.712 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1for customer 5
+2021-07-17 23:13:00.712 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1for customer 2
+2021-07-17 23:13:00.712 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1for customer 1
+2021-07-17 23:13:00.714 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1for customer 3
+2021-07-17 23:13:00.714 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1for customer 1
+2021-07-17 23:13:00.714 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1for customer 5
+2021-07-17 23:13:00.714 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1for customer 4
+2021-07-17 23:13:00.714 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1for customer 2
+2021-07-17 23:28:12.301 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 5
+2021-07-17 23:28:12.301 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 2
+2021-07-17 23:28:12.301 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 3
+2021-07-17 23:28:12.301 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 4
+2021-07-17 23:28:12.301 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 1
+2021-07-17 23:28:12.304 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 5
+2021-07-17 23:28:12.304 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 1
+2021-07-17 23:28:12.304 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 4
+2021-07-17 23:28:12.304 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 2
+2021-07-17 23:28:12.304 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 3
+2021-07-17 23:28:28.097 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 1
+2021-07-17 23:28:28.097 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 4
+2021-07-17 23:28:28.097 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 5
+2021-07-17 23:28:28.097 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 2
+2021-07-17 23:28:28.097 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 3
+2021-07-17 23:28:28.099 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 4
+2021-07-17 23:28:28.099 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 3
+2021-07-17 23:28:28.099 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 5
+2021-07-17 23:28:28.099 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 2
+2021-07-17 23:28:28.099 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 1
+2021-07-17 23:28:59.097 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 2
+2021-07-17 23:28:59.097 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 4
+2021-07-17 23:28:59.097 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 3
+2021-07-17 23:28:59.097 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 5
+2021-07-17 23:28:59.097 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 1
+2021-07-17 23:28:59.099 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 4
+2021-07-17 23:28:59.099 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 3
+2021-07-17 23:28:59.099 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 2
+2021-07-17 23:28:59.099 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 5
+2021-07-17 23:28:59.100 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 1
+2021-07-17 23:29:06.503 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 1
+2021-07-17 23:29:06.503 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 4
+2021-07-17 23:29:06.503 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 5
+2021-07-17 23:29:06.503 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 3
+2021-07-17 23:29:06.503 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 2
+2021-07-17 23:29:06.505 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 3
+2021-07-17 23:29:06.505 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 2
+2021-07-17 23:29:06.505 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 1
+2021-07-17 23:29:06.505 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 4
+2021-07-17 23:29:06.505 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 5
+2021-07-18 12:06:56.231 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 4
+2021-07-18 12:06:56.231 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 2
+2021-07-18 12:06:56.231 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 1
+2021-07-18 12:06:56.231 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 3
+2021-07-18 12:06:56.231 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 5
+2021-07-18 12:06:59.255 [pool-1-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 1
+2021-07-18 12:06:59.255 [pool-1-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 5
+2021-07-18 12:06:59.255 [pool-1-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 3
+2021-07-18 12:06:59.255 [pool-1-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 4
+2021-07-18 12:06:59.255 [pool-1-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 2
+2021-07-19 11:40:16.151 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 11:40:16.151 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 11:40:16.151 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 11:40:16.151 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 11:40:16.151 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 11:40:16.184 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 2
+2021-07-19 11:40:16.184 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 4
+2021-07-19 11:40:16.184 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 5
+2021-07-19 11:40:16.184 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 1
+2021-07-19 11:40:16.184 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 3
+2021-07-19 11:40:19.185 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 3
+2021-07-19 11:40:19.185 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 3 for customer 1
+2021-07-19 11:40:19.185 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 4
+2021-07-19 11:40:19.185 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 1 for customer 2
+2021-07-19 11:40:19.185 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set done at the cashbox 2 for customer 5
+2021-07-19 13:37:46.751 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 1
+2021-07-19 13:37:46.766 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 2
+2021-07-19 13:37:46.767 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 3
+2021-07-19 13:37:46.767 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 4
+2021-07-19 13:37:46.767 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 5
+2021-07-19 13:37:46.770 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 13:37:46.770 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 13:37:46.770 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 13:37:46.770 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 13:37:46.770 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 13:37:46.803 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 1
+2021-07-19 13:37:46.802 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 5
+2021-07-19 13:37:46.803 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 2
+2021-07-19 13:37:46.803 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 3
+2021-07-19 13:37:46.803 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 4
+2021-07-19 13:37:52.805 [pool-2-thread-4] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 4
+2021-07-19 13:37:52.805 [pool-2-thread-3] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 3
+2021-07-19 13:37:52.805 [pool-2-thread-1] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 1
+2021-07-19 13:37:52.805 [pool-2-thread-2] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 2
+2021-07-19 13:37:52.805 [pool-2-thread-5] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 5
+2021-07-19 13:37:52.805 [pool-2-thread-2] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 2
+2021-07-19 13:37:52.805 [pool-2-thread-3] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 3

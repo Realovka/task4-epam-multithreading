@@ -1,0 +1,88 @@
+2021-07-19 13:37:52.805 [pool-2-thread-1] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 1
+2021-07-19 13:37:52.805 [pool-2-thread-5] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 5
+2021-07-19 13:37:52.805 [pool-2-thread-4] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 4
+2021-07-19 14:19:35.376 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 1
+2021-07-19 14:19:35.377 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 2
+2021-07-19 14:19:35.378 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 3
+2021-07-19 14:19:35.378 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 4
+2021-07-19 14:19:35.378 [main] INFO  by.epam.multithreading.entity.CustomerQueue - New customer came to McDonalds 5
+2021-07-19 14:19:35.381 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 14:19:35.381 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 14:19:35.381 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 14:19:35.381 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 14:19:35.381 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Customer - Products added to basket [
+Product : 
+	id : 1
+	name : Cheeseburger
+, 
+Product : 
+	id : 2
+	name : French fries
+, 
+Product : 
+	id : 3
+	name : Coca-cola
+]
+2021-07-19 14:19:35.389 [pool-2-thread-3] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 3
+2021-07-19 14:19:35.390 [pool-2-thread-5] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 2 for customer 5
+2021-07-19 14:19:35.389 [pool-2-thread-2] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 2
+2021-07-19 14:19:35.390 [pool-2-thread-4] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 1 for customer 4
+2021-07-19 14:19:35.390 [pool-2-thread-1] INFO  by.epam.multithreading.entity.Cashbox - Status set accepted at the cashbox 3 for customer 1
+2021-07-19 14:19:41.393 [pool-2-thread-4] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 4
+2021-07-19 14:19:41.393 [pool-2-thread-5] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 5
+2021-07-19 14:19:41.393 [pool-2-thread-2] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 2
+2021-07-19 14:19:41.393 [pool-2-thread-3] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 3
+2021-07-19 14:19:41.393 [pool-2-thread-1] INFO  by.epam.multithreading.entity.PickUpTable - Status set done for customer 1
+2021-07-19 14:19:41.395 [pool-2-thread-4] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 4
+2021-07-19 14:19:41.395 [pool-2-thread-1] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 1
+2021-07-19 14:19:41.395 [pool-2-thread-3] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 3
+2021-07-19 14:19:41.395 [pool-2-thread-5] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 5
+2021-07-19 14:19:41.395 [pool-2-thread-2] INFO  by.epam.multithreading.entity.CustomerQueue - Customer left McDonalds 2
